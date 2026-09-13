@@ -36,7 +36,7 @@ CineAxo focuses on accessible HTML5 games designed for modern web browsers acros
 * Website: https://cineaxo.com/
 * Free Online Games: https://cineaxo.com/en/
 * Racing Games: https://cineaxo.com/en/category/racing
-* Action Games: https://cineaxo.com/en/category/action
+* Action Games: https://cineaxo.com/en/category/actions
 * Arcade Games: https://cineaxo.com/en/category/arcade
 * Adventure Games: https://cineaxo.com/en/category/adventure
 
